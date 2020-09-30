@@ -1,6 +1,6 @@
- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # 大阪市立大学 R2年度(2020年度)後期 全学共通科目 解析Ⅱ *TⅠ機･情33～ の授業のホームページ
-$$\iint_{D}$$
+<img src="https://latex.codecogs.com/gif.latex?\iint_{D}&space;dxdy" />
 # News
 - 2020/09/25 授業内容をアップしました. 動画サイズがあまりにも大きいため, "WebClassで教材の配布はしない"ことにしました. 
 - 2020/09/11 授業ページを作りました.
