@@ -5,4 +5,4 @@
 [第1回資料](https://github.com/masataka123/class/blob/master/2020_autumn/materials/1_多変数の連続写像.pdf) 
 [s](https://masataka123.github.io/math/blob/master/0_中間レポート_仮.pdf)
 [ss](https:///math/blob/master/0_中間レポート_仮.pdf)
-[sss](math/0_中間レポート_仮.pdf)
+[sss](/0_中間レポート_仮.pdf)
